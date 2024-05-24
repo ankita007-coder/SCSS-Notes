@@ -342,7 +342,7 @@ In SCSS, placeholder selectors are special types of selectors that start with a 
 
 In SCSS, placeholder selectors are special types of selectors that start with a `%` symbol. These selectors are designed to be used with the `@extend` directive, and they help to share sets of CSS rules among multiple selectors without generating any CSS on their own unless extended. 
 
-### What Does This Mean?
+### Placeholder Selector in detail
 
 1. **Placeholder Selector Definition**:
    - A placeholder selector is defined using the `%` symbol followed by a name. 
